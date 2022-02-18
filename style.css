@@ -1,0 +1,41 @@
+/**************tag selectors**************/
+body{
+    background-color: black;
+   }
+h1{
+    color:#F7ECDE;
+}
+h2{
+    color:#F7ECDE;
+}
+p{
+    color:rgb(122, 122, 122);
+}
+table{
+    color:rgb(138, 138, 138);
+}
+li{
+    color:rgb(138, 138, 138)
+}
+thead{
+    color:#F7ECDE;
+}
+hr {
+       border-color: grey; 
+       border-style: dotted none none;
+       border-width: 5px;
+       width: 5%;
+   }
+a{
+    color:rgb(135, 155, 165);
+}
+a:hover{
+ color:wheat;
+}
+/**************class selectors*************/
+.stars:hover{
+   color:gold;
+}
+.years:hover{
+    color:#F7ECDE;
+}
