@@ -32,10 +32,28 @@ a{
 a:hover{
  color:wheat;
 }
-/**************class selectors*************/
+/**************class selectors*************/ 
 .stars:hover{
    color:gold;
 }
 .years:hover{
     color:#F7ECDE;
+}
+.Top{
+    text-align:center;
+    padding:10%;
+}
+.Mid1{
+    text-align:center;
+    padding:10%;
+}
+.Mid1 table{
+    margin-left: 150px;
+}
+.Bottom{
+    float:right;
+}
+.Bottom h2{
+      display: inline-block;
+      padding:0px 20px;
 }
