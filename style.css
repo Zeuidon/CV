@@ -33,6 +33,9 @@ a:hover{
  color:wheat;
 }
 /**************class selectors*************/ 
+.ind{
+    text-align: center;
+}
 .stars:hover{
    color:gold;
 }
@@ -40,16 +43,26 @@ a:hover{
     color:#F7ECDE;
 }
 .Top{
-    text-align:center;
     padding:10%;
 }
 .Mid1{
+    padding:0 10%;
+    margin:40px auto 0;
+}
+.Mid1-heading{
+    font-size:30px;
     text-align:center;
-    padding:10%;
+    margin-bottom: 40px;
 }
-.Mid1 table{
-    margin-left: 150px;
+.table{
+    width:100%;
+    border-collapse: collapse;
+
 }
+.table tbody tr{
+    text-align: center;
+}
+
 .Bottom{
     float:right;
 }
